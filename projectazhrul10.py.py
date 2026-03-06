@@ -9,6 +9,7 @@ fakultas = input("Masukkan Fakultas        : ")
 universitas = input("Masukkan Universitas     : ")
 umur = input("Masukkan Umur            : ")
 alamat = input("Masukan Alamat          :")
+hobi = input("Masukan Minat dan Bakat    : ")
 
 
 print("\n=== DATA MAHASISWA ===")
@@ -19,3 +20,4 @@ print("Fakultas    :", fakultas)
 print("Universitas :", universitas)
 print("Umur        :", umur, "tahun")
 print("alamat      : ", alamat)
+print ("Hobi       :", hobi )
